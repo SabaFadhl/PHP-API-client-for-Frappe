@@ -13,7 +13,7 @@
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"></script>
   <style>
     form {
-      margin: 0em 30em;
+      margin: 0em 20em;
       /* width: 30%; */
       text-align: right;
       background-color: #f4ede5;
